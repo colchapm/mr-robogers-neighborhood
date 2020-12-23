@@ -6,7 +6,7 @@
 
 ### Description 
 
-Create a web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number
+Mr. Roboger's Neighborhood is a simple site that accepts user numerical input and then returns the phrases "Beep!" for ones, "Boop!" for twos, and "Won't you be my neighbor?" for threes.  
 
 ### Setup
 
@@ -29,7 +29,9 @@ Expect(beepBoop(13)).toEqual("Won't you be my neighbor?");
 ### Technologies Used
 
 HTML
+<br>
 JavaScript
+<br>
 Git
 
 
